@@ -3,22 +3,24 @@ body{
   text-align: justify;
 }
 .main{
+  float: left;
   width: 49%;
   line-height: 24px;
+  overflow: auto;
 }
-p{
-  margin: 2em;
+p.inside{
+  margin: 3em 1em;
 }
-.href{
-  float: right;
+nav.href{
+  float: left;
   margin: 1em;
-  width: 49%;
+  width: 260px;
 }
 #img{
-  width: 225px;
+  width: 260px;
 }
 #classic{
-  width: 50px;
+  width: 70px;
 }
 .afterbox{
   clear: left;
@@ -47,4 +49,13 @@ a:visited{
 .house{
   float: left;
   width: 100px;
+}
+.clearfix{
+  margin-left: 51%;
+}
+.leftfooter{
+  width: 49%;
+}
+.movie{
+  background-color: #F1EDEA;
 }
