@@ -1,0 +1,50 @@
+body{
+  font-family:PMingLiU;
+  text-align: justify;
+}
+.main{
+  width: 49%;
+  line-height: 24px;
+}
+p{
+  margin: 2em;
+}
+.href{
+  float: right;
+  margin: 1em;
+  width: 49%;
+}
+#img{
+  width: 225px;
+}
+#classic{
+  width: 50px;
+}
+.afterbox{
+  clear: left;
+}
+#img:hover{
+  opacity: 0.5;
+}
+span{
+  font-size: 36px;
+  color: #5487A2;
+  font-weight: bold;
+}
+a{
+  color: #D9E6C4;
+}
+a:hover{
+  color: #67593B;
+}
+a:visited{
+  color: blue;
+}
+.leftclassic{
+  float: left;
+  margin: 1em;
+}
+.house{
+  float: left;
+  width: 100px;
+}
