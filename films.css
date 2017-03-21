@@ -14,7 +14,7 @@ p.inside{
 nav.href{
   float: left;
   margin: 1em;
-  width: 260px;
+  width: 48%;
 }
 #img{
   width: 260px;
@@ -53,9 +53,15 @@ a:visited{
 .clearfix{
   margin-left: 51%;
 }
-.leftfooter{
-  width: 49%;
+.footer{
+  width: 50%;
+  height: 100px;
+  float:left;
+  
 }
 .movie{
   background-color: #F1EDEA;
+  width: 260px;
+  float: left;
+  margin: 10px;
 }
