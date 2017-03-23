@@ -7,7 +7,8 @@ input, select{
   box-sizing: border-box;
   border-radius: 0px;
   -webkit-appearance: none;
-  width: 100%;
+  width: 250px;
+  height: 55px;
   padding: 15px;
   font-size: 1.1em;
   border: none;
@@ -22,4 +23,12 @@ form{
 }
 .always{
   background-color: #23846D;
+}
+div {
+  width: 250px;
+  height: 570px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -285px 0 0 -125px;
 }
