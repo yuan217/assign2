@@ -15,6 +15,10 @@ input, select{
   box-shadow: none;
   background-color: rgb(248,248,248);
 }
+div.form{
+  box-sizing: border-box;
+}
+
 form{
   margin: auto;
 }
@@ -24,11 +28,11 @@ form{
 .always{
   background-color: #23846D;
 }
-div {
+div.all {
   width: 250px;
-  height: 570px;
+  height: 580px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: -285px 0 0 -125px;
+  margin: -290px 0 0 -125px;
 }
